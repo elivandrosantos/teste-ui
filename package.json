@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/elivandrosantos/teste-ui#readme",
   "devDependencies": {
+    "@types/faker": "^6.6.9",
     "cypress": "^12.5.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "faker": "^5.5.3"
   }
 }
